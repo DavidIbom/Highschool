@@ -304,6 +304,7 @@ span {
         text-align:left;
     }
 
+    
 
     .student {
         height: 400px;
@@ -313,7 +314,7 @@ span {
     }
 
     .application {
-        width: 358px;
+        width: 370px;
         height: 600px;
     }
 
@@ -344,7 +345,7 @@ span {
     }
 
     #image {
-        width: 315px;
+        width: 270px;
         margin-left: 10px;
         margin-right: 10px;
         margin-top: 10px;
@@ -404,6 +405,14 @@ span {
         margin-right: -10px;
         text-align: left;
         padding-top: 15px;
+    }
+
+    .school {
+        width: 240px;
+    }
+
+    nav {
+        width: 370px;
     }
 
 }
