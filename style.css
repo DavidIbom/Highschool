@@ -410,11 +410,15 @@ span {
     }
 
     .school {
-        width: 240px;
+        width: 326px;
     }
 
     nav {
         width: 365px;
+    }
+    
+    #read {
+        margin-left: 80px;
     }
 
 }
