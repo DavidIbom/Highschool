@@ -2,6 +2,8 @@ body {
     font-family: sans-serif;
     color: white;
     margin-bottom: 20px;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 .heading {
@@ -314,7 +316,7 @@ span {
     }
 
     .application {
-        width: 370px;
+        width: 360px;
         height: 600px;
     }
 
@@ -412,7 +414,7 @@ span {
     }
 
     nav {
-        width: 370px;
+        width: 365px;
     }
 
 }
